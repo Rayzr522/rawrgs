@@ -1,0 +1,9 @@
+{
+  "name": "rawrgs",
+  "version": "0.0.1",
+  "description": "A super lightweight argument parser for Node.JS with zero external dependencies",
+  "main": "index.js",
+  "repository": "https://github.com/Rayzr522/rawrgs.git",
+  "author": "Rayzr522 <rayzr522@gmail.com>",
+  "license": "MIT"
+}
